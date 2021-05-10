@@ -1,0 +1,68 @@
+body
+{
+    font-family: 'Original Surfer', cursive;
+    background-color: rgb(85, 39, 248);
+}
+.header_div
+{
+    background: rgb(243, 184, 220);
+    color: deeppink;
+}
+.header_div img
+{
+    width: 100px;
+}
+.main_div
+{
+    background: blueviolet;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid white;
+}
+.main_div label
+{
+    background: cornflowerblue;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow:5px 5px 18px beige;
+}
+#camera
+{
+    width: 310px;
+    border: 2px solid white;
+    height: 300px;
+    box-shadow:5px 5px 18px beige;
+}
+.main_div button
+{
+    width: 310px;
+    font-size: 16px;
+    box-shadow:5px 5px 18px white;
+    border: 1px solid;
+}
+.footer_div
+{
+    margin-bottom: 50px;
+}
+.footer_div h4
+{
+background: blueviolet;
+border-radius: 10px;
+padding: 5px;
+box-shadow: 5px 5px 18px beige;
+}
+.footer_div img
+{
+    width: 70px;
+}
+.copy_right_footer
+{
+    position: fixed;
+    color: bisque;
+    bottom: 0;
+    width:100%;
+    background-color: blue;
+    line-height: 3;
+    text-align: center;
+}
